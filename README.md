@@ -8,6 +8,9 @@ Create a console application (numberworder.exe) that expects a single numeric pa
 > Enter a number: 1234     
 > one two three four
 
+### Assumption
+Assume that input will be positive
+
 ### Additional considerations
 1. What happens if the input is empty?
     > Input: ""     
