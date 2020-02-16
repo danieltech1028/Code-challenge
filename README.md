@@ -1,3 +1,4 @@
+![Run NumberWorder.py in Github Actions](https://github.com/danieltech1028/Code-challenge/workflows/Run%20NumberWorder.py%20in%20Github%20Actions/badge.svg?branch=master)
 # CodeChallenge
 
 Create a console application (numberworder.exe) that expects a single numeric parameter. The application prints each character in the number as a word.
